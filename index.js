@@ -8,7 +8,9 @@ var reverseString = function (s) {
 
 
 ex1 = ["h", "e", "l", "l", "o"];
-console.log('EX1:', reverseString(ex1));
+reverseString(ex1);
+console.log('EX1:', ex1);
 
 ex2 = ["H", "a", "n", "n", "a", "h"];
-console.log('EX2:', reverseString(ex1));
+reverseString(ex2);
+console.log('EX2:',ex2 );
